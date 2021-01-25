@@ -1,0 +1,28 @@
+C:\Users\Lovro\source\repos\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Lovro\source\repos\Tetris\bin\Debug\Tetris.exe
+C:\Users\Lovro\source\repos\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\App.g.cs
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.exe
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Lovro\source\repos\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\bin\Debug\Tetris.exe
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\MainWindow.baml
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\App.g.cs
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.exe
+C:\Users\Tsvetelina\OneDrive\Documents\FIT\_FIT\C# (Herr Eckart)\Tetris_E\Tetris\obj\Debug\Tetris.pdb
